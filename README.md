@@ -5,4 +5,4 @@ In this lab we will load stock data into a Pandas Dataframe and calculate some s
 Date | Open | High | Low | Close | Adj_Close | Volume
 
 ##### To Do:
- *Load the Google, Apple, Amazon stock data into a DataFrame.
+  *Load the Google, Apple, Amazon stock data into a DataFrame.
