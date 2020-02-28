@@ -5,14 +5,14 @@ In this lab we will load stock data into a Pandas Dataframe and calculate some s
 Date | Open | High | Low | Close | Adj_Close | Volume
 
 #### To Do:
-  a.)Load the Google, Apple, Amazon stock data into a DataFrame.
-  b.)Create calendar dates between '2000-01-01' and  '2016-12-31'.
-  c.)Create calendar dates between '2000-01-01' and  '2016-12-31'.
-  d.)Join the Google, Apple, Amazon stock to all_stocks
-  e.)Check if there are any NaN values in the all_stocks dataframe,Remove any rows that contain NaN values.
-  f.)Average stock price for each stock.
-  g.)Median stock price for each stock.
-  h.)Standard deviation of the stock price for each stock.
-  i.)Correlation between stocks.
-  j.)Compute the rolling mean using a 150-Day window for Google stock.
-  k.)Plot the rolling mean ontop of our Google stock data.
+    a.)Load the Google, Apple, Amazon stock data into a DataFrame.
+    b.)Create calendar dates between '2000-01-01' and  '2016-12-31'.
+    c.)Create calendar dates between '2000-01-01' and  '2016-12-31'.
+    d.)Join the Google, Apple, Amazon stock to all_stocks
+    e.)Check if there are any NaN values in the all_stocks dataframe,Remove any rows that contain NaN values.
+    f.)Average stock price for each stock.
+    g.)Median stock price for each stock.
+    h.)Standard deviation of the stock price for each stock.
+    i.)Correlation between stocks.
+    j.)Compute the rolling mean using a 150-Day window for Google stock.
+    k.)Plot the rolling mean ontop of our Google stock data.
