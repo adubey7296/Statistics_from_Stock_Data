@@ -4,7 +4,7 @@ In this lab we will load stock data into a Pandas Dataframe and calculate some s
 
 Date | Open | High | Low | Close | Adj_Close | Volume
 
-###Datatset:
+### Datatset:
 
 *All the stock data was downloaded from yahoo finance in CSV format.
 
